@@ -1,10 +1,11 @@
+package construtores_getters_setters;
+
 import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;
 
 public class FuncaoQuadratica {
     private double a;
     public double b,c;
-    //o coeficiente 'a' não pode ser nulo portanto há a necessidade de ser encapsulado para não ser atribuído um valor errôneo
     public FuncaoQuadratica(double a, double b, double c) {
         if (a != 0) this.setA(a);
         this.b = b;
