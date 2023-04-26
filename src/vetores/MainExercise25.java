@@ -1,6 +1,8 @@
+package vetores;
+
 import java.util.Scanner;
 
-public class Main25 {
+public class MainExercise25 {
     public static void main(String[] args) {
         //25-------------------------------------------------------
         Scanner scanner = new Scanner(System.in);

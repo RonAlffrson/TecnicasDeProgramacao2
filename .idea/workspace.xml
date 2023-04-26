@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/construtores_getters_setters/FuncaoQuadratica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construtores_getters_setters/FuncaoQuadratica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vetores/Conceito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vetores/Main_ex_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/MainExercise23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores/MainExercise23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/MainExercise24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores/MainExercise24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/MainExercise25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores/MainExercise25.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +43,20 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/renan/IdeaProjects/tp2&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Conceito">
+    <configuration name="Conceito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetores.Conceito" />
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vetores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="tp2" />
@@ -46,8 +64,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main_ex_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetores.Main_ex_26" />
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vetores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conceito" />
+        <item itemvalue="Application.Main_ex_26" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
