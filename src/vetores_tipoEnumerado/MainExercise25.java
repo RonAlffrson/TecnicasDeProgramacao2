@@ -1,4 +1,4 @@
-package vetores;
+package vetores_tipoEnumerado;
 
 import java.util.Scanner;
 
