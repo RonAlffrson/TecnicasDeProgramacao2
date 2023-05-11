@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="Criando classe 'Conceito' utilizando tipo enumerado para avaliar o conceito de um aluno a partir da nota dada">
-      <change afterPath="$PROJECT_DIR$/src/vetores_tipoEnumerado/BlackJack.java" afterDir="false" />
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="Criando classe 'BlackJack' utilizando tipo enumerado para um protótipo do jogo Blackjack, onde o programa avalia qual carta é a maior">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/Conceito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores_tipoEnumerado/Conceito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/MainExercise23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores_tipoEnumerado/MainExercise23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/MainExercise24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores_tipoEnumerado/MainExercise24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vetores/MainExercise25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores_tipoEnumerado/MainExercise25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_tipoEnumerado/BlackJack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores_tipoEnumerado/BlackJack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +36,14 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/renan/IdeaProjects/tp2&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/renan/Exercism/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BlackJack">
+  <component name="RunManager" selected="Application.strings.Main">
     <configuration name="BlackJack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vetores_tipoEnumerado.BlackJack" />
       <module name="tp2" />
@@ -90,8 +90,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="strings.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.Main" />
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.strings.Main" />
         <item itemvalue="Application.BlackJack" />
         <item itemvalue="Application.Conceito" />
         <item itemvalue="Application.Main_ex_26" />
@@ -115,22 +129,19 @@
       <option name="project" value="LOCAL" />
       <updated>1682475040023</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criando classe 'BlackJack' utilizando tipo enumerado para um protótipo do jogo Blackjack, onde o programa avalia qual carta é a maior">
+      <created>1682511012352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682511012352</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando classe 'Conceito' utilizando tipo enumerado para avaliar o conceito de um aluno a partir da nota dada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando classe 'Conceito' utilizando tipo enumerado para avaliar o conceito de um aluno a partir da nota dada" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/vetores_tipoEnumerado/BlackJack.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Criando classe 'BlackJack' utilizando tipo enumerado para um protótipo do jogo Blackjack, onde o programa avalia qual carta é a maior" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando classe 'BlackJack' utilizando tipo enumerado para um protótipo do jogo Blackjack, onde o programa avalia qual carta é a maior" />
   </component>
 </project>

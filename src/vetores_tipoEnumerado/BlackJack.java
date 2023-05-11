@@ -39,7 +39,7 @@ public enum BlackJack {
         BlackJack cartaJogador = BlackJack.AS;
         Random random = new Random();
         int valorCartaDealer = random.nextInt(14) + 2;
-        int valorCartaJogador = random.nextInt(14) + 1;
+        int valorCartaJogador = random.nextInt(14) + 2;
         for (BlackJack carta : BlackJack.values()){
             if (valorCartaDealer == carta.getValorCarta()){
                 cartaDealer = carta;
