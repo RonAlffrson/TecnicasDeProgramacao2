@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="Exercício de Strings">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="Exercício de Strings e de tweet &#10;resolvidos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings/StringExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/StringExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colecoes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tweet">
+  <component name="RunManager" selected="Application.Exercise38">
     <configuration name="BlackJack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vetores_tipoEnumerado.BlackJack" />
       <module name="tp2" />
@@ -71,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_ex_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetores.Main_ex_26" />
+    <configuration name="Exercise38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Exercise38" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vetores_tipoEnumerado.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise38" />
         <item itemvalue="Application.Tweet" />
         <item itemvalue="Application.strings.Main" />
         <item itemvalue="Application.BlackJack" />
         <item itemvalue="Application.Conceito" />
-        <item itemvalue="Application.Main_ex_26" />
       </list>
     </recent_temporary>
   </component>
@@ -157,13 +156,39 @@
       <option name="project" value="LOCAL" />
       <updated>1683813590830</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercício de Strings e de tweet &#10;resolvidos">
+      <created>1683845089867</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683845089867</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Exercício de Strings e de tweet &#10;resolvidos">
+      <created>1683845271707</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683845271707</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando classe 'Conceito' utilizando tipo enumerado para avaliar o conceito de um aluno a partir da nota dada" />
     <MESSAGE value="Criando classe 'BlackJack' utilizando tipo enumerado para um protótipo do jogo Blackjack, onde o programa avalia qual carta é a maior" />
     <MESSAGE value="Exercício de Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício de Strings" />
+    <MESSAGE value="Exercício de Strings e de tweet &#10;resolvidos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício de Strings e de tweet &#10;resolvidos" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/colecoes/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
