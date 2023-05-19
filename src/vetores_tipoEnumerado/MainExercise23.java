@@ -10,16 +10,15 @@ public class MainExercise23 {
         int studentsNumber = scanner.nextInt();
         double[] students;
         students = new double[studentsNumber];
+        double avarageGrade = 0;
         for (int i = 0; i < studentsNumber; i++) {
             System.out.printf("Grade from student %d: ", i);
             students[i] = scanner.nextDouble();
+            avarageGrade += students[i];
         }
-        double avarageGrade = 0;
-        for (double grades : students) {
-            avarageGrade += grades;
-        }
+
         avarageGrade = avarageGrade / studentsNumber;
-        System.out.println("Grades above avarage:");
+        System.out.println("Grades above average:");
         for (int i = 0; i < studentsNumber; i++) {
             if (students[i] >= avarageGrade) System.out.printf("student %d;\n", i);
 

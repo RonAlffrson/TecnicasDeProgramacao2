@@ -1,3 +1,5 @@
+package construtores_getters_setters;
+
 public class ClimaTempo {
     private double[] Pluviosidade;
     private double[] Pressao;
@@ -5,6 +7,12 @@ public class ClimaTempo {
         this.Pluviosidade = pl;
         return true;
     }
+
+    public ClimaTempo(double[] pluviosidade, double[] pressao) {
+        Pluviosidade = pluviosidade;
+        Pressao = pressao;
+    }
+
     public boolean SetPressao(double[] pr) {
         this.Pressao = pr;
         return true;

@@ -8,8 +8,7 @@ public class MainExercise24 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Type the number n: ");
         int n = scanner.nextInt();
-        int[] v;
-        v = new int[n];
+        int[] v = new int[n];
 
         System.out.print("type k: ");
         int k = scanner.nextInt();

@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class Exercise38 {
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<>();
-
         Scanner scan = new Scanner(System.in);
         String str;
 

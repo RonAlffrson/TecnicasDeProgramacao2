@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="Exercício de Strings e de tweet &#10;resolvidos">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="Exercício 38 de coleções resolvido">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colecoes/Exercise38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Exercise38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construtores_getters_setters/Cipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construtores_getters_setters/Cipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construtores_getters_setters/ClimaTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construtores_getters_setters/ClimaTempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_tipoEnumerado/MainExercise23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores_tipoEnumerado/MainExercise23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_tipoEnumerado/MainExercise24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vetores_tipoEnumerado/MainExercise24.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,38 +49,38 @@
   }
 }</component>
   <component name="RunManager" selected="Application.Exercise38">
-    <configuration name="BlackJack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetores_tipoEnumerado.BlackJack" />
-      <module name="tp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vetores_tipoEnumerado.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Conceito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetores_tipoEnumerado.Conceito" />
-      <module name="tp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vetores_tipoEnumerado.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Exercise38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.Exercise38" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="colecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Exercise39" />
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="colecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.gerenciamentoDeTurmas.Main" />
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="colecoes.gerenciamentoDeTurmas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,26 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="strings.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.Main" />
-      <module name="tp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Exercise39" />
         <item itemvalue="Application.Exercise38" />
         <item itemvalue="Application.Tweet" />
-        <item itemvalue="Application.strings.Main" />
-        <item itemvalue="Application.BlackJack" />
-        <item itemvalue="Application.Conceito" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683845271707</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercício 38 de coleções resolvido">
+      <created>1684265215682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684265215682</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,17 +176,7 @@
     <MESSAGE value="Criando classe 'BlackJack' utilizando tipo enumerado para um protótipo do jogo Blackjack, onde o programa avalia qual carta é a maior" />
     <MESSAGE value="Exercício de Strings" />
     <MESSAGE value="Exercício de Strings e de tweet &#10;resolvidos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício de Strings e de tweet &#10;resolvidos" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/colecoes/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Exercício 38 de coleções resolvido" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício 38 de coleções resolvido" />
   </component>
 </project>
