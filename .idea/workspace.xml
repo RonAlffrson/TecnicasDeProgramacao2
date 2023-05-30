@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercicios feitos sobre herança">
-      <change beforePath="$PROJECT_DIR$/src/heranca/ParqueDeDiversoes/Carrossel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/ParqueDeDiversoes/Carrossel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/ParqueDeDiversoes/MontanhaRussa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/ParqueDeDiversoes/MontanhaRussa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685410767966</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="exercicios feitos sobre herança">
+      <created>1685410952652</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685410952652</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
