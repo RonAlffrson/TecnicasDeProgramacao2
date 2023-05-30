@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/src/polimorfismo/ex34/Vendedor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Administrador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/CorpoDocente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/CorpoDocente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Empregado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Graduado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Graduado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/MembroDaComunidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/MembroDaComunidade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Professor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685451130737</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="updates">
+      <created>1685475096304</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1685475096304</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
