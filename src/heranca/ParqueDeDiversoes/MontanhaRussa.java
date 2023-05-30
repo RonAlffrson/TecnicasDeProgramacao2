@@ -14,7 +14,8 @@ public class MontanhaRussa extends Atracao {
         if (alturaMinima > 0) this.alturaMinima = alturaMinima;
     }
     public void exibirDetalhes(){
-        System.out.println("Nome: " + getNome() + " capacidade: " + capacidade + " preco: " + getPreco() + " altura mínima: " + getAlturaminima());
+        System.out.println("Nome: " + getNome() + " capacidade: " + capacidade + " preco: R$" + getPreco() + " altura mínima: " + getAlturaminima() +
+                " arrecadação máxima: R$" + arrecadacaoMaxima());
     }
 }
 

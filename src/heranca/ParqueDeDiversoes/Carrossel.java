@@ -16,6 +16,7 @@ public class Carrossel extends Atracao{
     }
 
     public void exibirDetalhes(){
-        System.out.println("Nome: " + getNome() + " capacidade: " + capacidade + " preco: " + getPreco() + " idade mínima: " + getIdadeinima());
+        System.out.println("Nome: " + getNome() + " capacidade: " + capacidade + " preco: R$" + getPreco() + " idade mínima: " + getIdadeinima() +
+                " arrecadação máxima: R$" + arrecadacaoMaxima());
     }
 }
