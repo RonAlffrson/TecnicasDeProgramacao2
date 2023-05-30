@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="arrayList Exercise38 remade">
-      <change afterPath="$PROJECT_DIR$/src/heranca/loja/Software.java" afterDir="false" />
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercicios feitos sobre herança">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/juros/JurosCompostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/juros/JurosCompostos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/juros/JurosSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/juros/JurosSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/juros/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/juros/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.heranca.loja.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.gerenciamentoDeTurmas.Main" />
-      <module name="tp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="colecoes.gerenciamentoDeTurmas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.heranca.juros.Main">
     <configuration name="NewExercise38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.NewExercise38" />
       <module name="tp2" />
@@ -96,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="heranca.juros.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heranca.juros.Main" />
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heranca.juros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="heranca.loja.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heranca.loja.Main" />
       <module name="tp2" />
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.heranca.juros.Main" />
         <item itemvalue="Application.heranca.loja.Main" />
         <item itemvalue="Application.heranca.example.Main" />
         <item itemvalue="Application.NewExercise38" />
         <item itemvalue="Application.StringExercise_2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684499318110</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="exercicios feitos sobre herança">
+      <created>1685366055843</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685366055843</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,6 +233,7 @@
     <MESSAGE value="updates" />
     <MESSAGE value="string Exercise remade" />
     <MESSAGE value="arrayList Exercise38 remade" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrayList Exercise38 remade" />
+    <MESSAGE value="exercicios feitos sobre herança" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios feitos sobre herança" />
   </component>
 </project>

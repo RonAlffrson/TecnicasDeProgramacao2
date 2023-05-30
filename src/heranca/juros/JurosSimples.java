@@ -10,6 +10,6 @@ public class JurosSimples extends Juros {
     }
 
     public void imprimirDados(){
-        System.out.println("juros: " + calcularJuros() + "capital: " + getCapital() + "taxa: " + getTaxa() + "tempo: " + getTempo());
+        System.out.println("juros: " + calcularJuros() + " capital: " + getCapital() + " taxa: " + getTaxa() + " tempo: " + getTempo());
     }
 }

@@ -6,11 +6,10 @@ public class JurosCompostos extends Juros {
     }
 
     public double calcularJuros(){
-        //todo return getCapital() * getTaxa() * getTempo();
-        return 0;
+        return (getCapital() * Math.pow((1 + getTaxa()), getTempo())) - getCapital();
     }
 
     public void imprimirDados(){
-        System.out.println("juros: " + calcularJuros() + "capital: " + getCapital() + "taxa: " + getTaxa() + "tempo: " + getTempo());
+        System.out.println("juros: " + calcularJuros() + " capital: " + getCapital() + " taxa: " + getTaxa() + " tempo: " + getTempo());
     }
 }
