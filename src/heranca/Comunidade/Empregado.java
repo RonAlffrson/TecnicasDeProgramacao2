@@ -34,4 +34,8 @@ public class Empregado extends MembroDaComunidade{
     public void setCargo(String cargo) {
         if(!cargo.isEmpty())this.cargo = cargo;
     }
+    public void exibirDetalhes(){
+        System.out.println("Nome: " + nome + " idade: " + idade + " ano de ingresso: " + anoIngresso +
+                "cargo: " + cargo + " remuneração: R$" + remuneracao + " horas de trabalho diárias: " + hrsDeTrabalho + "h");
+    }
 }

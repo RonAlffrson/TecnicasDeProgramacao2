@@ -33,4 +33,7 @@ public class MembroDaComunidade {
     public void setAnoIngresso(int anoIngresso) {
         if (anoIngresso > 0) this.anoIngresso = anoIngresso;
     }
+    public void exibirDetalhes(){
+        System.out.println("Nome: " + nome + " idade: " + idade + " ano de ingresso: " + anoIngresso);
+    }
 }

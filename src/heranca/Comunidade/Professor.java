@@ -28,4 +28,11 @@ public class Professor extends CorpoDocente{
     public void setDoutorado(String doutorado) {
         if(!doutorado.isEmpty()) this.doutorado = doutorado;
     }
+
+    public void exibirDetalhes(){
+        System.out.println("Nome: " + nome + " idade: " + idade + " ano de ingresso: " + anoIngresso +
+                " cargo: " + cargo + " remuneração: R$" + remuneracao + " horas de trabalho diárias: " + hrsDeTrabalho + "h" +
+                " quantidade de empregos: " + qntEmpregos + " anos de experiência: " + anosExp + " escolaridade: " + escolaridade +
+                " graduação: " + graduacao + " doutorado: " + doutorado + " quantidade de aulas semanais: " + qntAulasSemanais);
+    }
 }

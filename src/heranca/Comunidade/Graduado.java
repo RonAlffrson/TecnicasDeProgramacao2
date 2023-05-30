@@ -27,4 +27,9 @@ public class Graduado extends MembroDaComunidade{
     public void setCurso(String curso) {
         if (!curso.isEmpty()) this.curso = curso;
     }
+
+    public void exibirDetalhes(){
+        System.out.println("Nome: " + nome + " idade: " + idade + " ano de ingresso: " + anoIngresso +
+                " ano de egresso: " + anoEgresso + " curso: " + curso + " já trabalha: " + trabalha);
+    }
 }

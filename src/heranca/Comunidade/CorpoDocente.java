@@ -27,4 +27,10 @@ public class CorpoDocente extends Empregado {
     public void setEscolaridade(String escolaridade) {
         if (!escolaridade.isEmpty())this.escolaridade = escolaridade;
     }
+
+    public void exibirDetalhes(){
+        System.out.println("Nome: " + nome + " idade: " + idade + " ano de ingresso: " + anoIngresso +
+                "cargo: " + cargo + " remuneração: R$" + remuneracao + " horas de trabalho diárias: " + hrsDeTrabalho + "h" +
+                " quantidade de empregos: " + qntEmpregos + " anos de experiência: " + anosExp + " escolaridade: " + escolaridade);
+    }
 }

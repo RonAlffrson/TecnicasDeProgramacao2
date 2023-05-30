@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercicios feitos sobre herança">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/CorpoDocente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/CorpoDocente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Empregado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Graduado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Graduado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/MembroDaComunidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/MembroDaComunidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Comunidade/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heranca/Comunidade/Professor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +254,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685410952652</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="exercicios feitos sobre herança">
+      <created>1685451060167</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685451060167</updated>
+    </task>
+    <task id="LOCAL-00019" summary="updates">
+      <created>1685451130737</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1685451130737</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,10 +277,10 @@
     <MESSAGE value="Exercício de Strings" />
     <MESSAGE value="Exercício de Strings e de tweet &#10;resolvidos" />
     <MESSAGE value="Exercício 38 de coleções resolvido" />
-    <MESSAGE value="updates" />
     <MESSAGE value="string Exercise remade" />
     <MESSAGE value="arrayList Exercise38 remade" />
     <MESSAGE value="exercicios feitos sobre herança" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicios feitos sobre herança" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
 </project>

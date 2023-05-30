@@ -12,4 +12,11 @@ public class Administrador extends CorpoDocente{
         this.estagiario = estagiario;
         this.deTi = deTi;
     }
+
+    public void exibirDetalhes(){
+        System.out.println("Nome: " + nome + " idade: " + idade + " ano de ingresso: " + anoIngresso +
+                " cargo: " + cargo + " remuneração: R$" + remuneracao + " horas de trabalho diárias: " + hrsDeTrabalho + "h" +
+                " quantidade de empregos: " + qntEmpregos + " anos de experiência: " + anosExp + " escolaridade: " + escolaridade +
+                " chefe de setor: " + chefeSetor + " estagiário: " + estagiario + " de TI: " + deTi);
+    }
 }

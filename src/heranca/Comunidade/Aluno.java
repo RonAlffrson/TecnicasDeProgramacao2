@@ -28,4 +28,9 @@ public class Aluno extends MembroDaComunidade{
     public void setPeriodo(int periodo) {
         if(periodo > 0) this.periodo = periodo;
     }
+
+    public void exibirDetalhes(){
+        System.out.println("Nome: " + nome + " idade: " + idade + " ano de ingresso: " + anoIngresso +
+                " curso: " + curso + " período: " + periodo + " estagiando: " + estagiando);
+    }
 }
