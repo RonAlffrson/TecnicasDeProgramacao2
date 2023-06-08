@@ -1,10 +1,10 @@
 package polimorfismo.ex35;
 
 public class ContaEspecial extends ContaComum{
-    public double limite;
+    private double limite;
     public ContaEspecial(int num, double saldo, double limite) {
         super(num, saldo);
-        this.limite = limite;
+        setLimite(limite);
     }
 
     public double sacar(double saque){
@@ -13,4 +13,11 @@ public class ContaEspecial extends ContaComum{
         return saldo;
     }
 
+    public double getLimite() {
+        return limite;
+    }
+
+    public void setLimite(double limite) {
+       if (limite > 0) this.limite = limite;
+    }
 }

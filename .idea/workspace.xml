@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/src/polimorfismo/ex34/Vendedor.java" afterDir="false" />
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre polimorfismo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polimorfismo/ex35/ContaEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorfismo/ex35/ContaEspecial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,26 +43,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.interfaces.ex37.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heranca.ParqueDeDiversoes.Main" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="heranca.ParqueDeDiversoes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewExercise38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.NewExercise38" />
-      <module name="tp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="interfaces.ex37.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.ex37.Main" />
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.ex37.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.interfaces.ex37.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.heranca.juros.Main" />
         <item itemvalue="Application.heranca.loja.Main" />
         <item itemvalue="Application.heranca.example.Main" />
-        <item itemvalue="Application.NewExercise38" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +268,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685475096304</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="exercícios sobre polimorfismo">
+      <created>1685479908842</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1685479908842</updated>
+    </task>
+    <task id="LOCAL-00022" summary="exercícios sobre polimorfismo">
+      <created>1685479930435</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1685479930435</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,6 +295,7 @@
     <MESSAGE value="arrayList Exercise38 remade" />
     <MESSAGE value="exercicios feitos sobre herança" />
     <MESSAGE value="updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+    <MESSAGE value="exercícios sobre polimorfismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre polimorfismo" />
   </component>
 </project>
