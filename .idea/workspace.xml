@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre polimorfismo">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre interface">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/ex35/ContaEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorfismo/ex35/ContaEspecial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.interfaces.ex37.Main">
+  <component name="RunManager" selected="Application.colecoes.hashmap.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heranca.ParqueDeDiversoes.Main" />
       <module name="tp2" />
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="heranca.example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heranca.example.Main" />
+    <configuration name="colecoes.hashmap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.hashmap.Main" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heranca.example.*" />
+          <option name="PATTERN" value="colecoes.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.colecoes.hashmap.Main" />
         <item itemvalue="Application.interfaces.ex37.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.heranca.juros.Main" />
         <item itemvalue="Application.heranca.loja.Main" />
-        <item itemvalue="Application.heranca.example.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685479930435</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="exercícios sobre interface">
+      <created>1686255679276</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1686255679276</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -296,6 +303,7 @@
     <MESSAGE value="exercicios feitos sobre herança" />
     <MESSAGE value="updates" />
     <MESSAGE value="exercícios sobre polimorfismo" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre polimorfismo" />
+    <MESSAGE value="exercícios sobre interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre interface" />
   </component>
 </project>
