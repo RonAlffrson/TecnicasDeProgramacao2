@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre coleções">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre hashmap">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/colecoes/Exercise47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Exercise47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/hashmap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/hashmap/MapaMatricula.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,24 +36,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/renan/Exercism/java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/renan/Exercism/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.MapaNumeroRomano">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heranca.ParqueDeDiversoes.Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.Exercise47">
+    <configuration name="Exercise47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Exercise47" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heranca.ParqueDeDiversoes.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise47" />
         <item itemvalue="Application.MapaNumeroRomano" />
         <item itemvalue="Application.Rna" />
         <item itemvalue="Application.MapaMatricula" />
         <item itemvalue="Application.interfaces.ex37.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686861160350</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="exercícios sobre hashmap">
+      <created>1687030840856</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1687030840856</updated>
+    </task>
+    <task id="LOCAL-00027" summary="exercícios sobre hashmap">
+      <created>1687030863542</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1687030863542</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -323,7 +338,8 @@
     <MESSAGE value="exercícios sobre polimorfismo" />
     <MESSAGE value="exercícios sobre interface" />
     <MESSAGE value="exercícios sobre coleções" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre coleções" />
+    <MESSAGE value="exercícios sobre hashmap" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre hashmap" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
