@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre interface">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre coleções">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colecoes/Exercise47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/Exercise47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colecoes/hashmap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/hashmap/MapaMatricula.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NmTeP9bfLEldY8Tvy08Xb3JWZV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.colecoes.hashmap.Main">
+  <component name="RunManager" selected="Application.MapaNumeroRomano">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heranca.ParqueDeDiversoes.Main" />
       <module name="tp2" />
@@ -57,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="colecoes.hashmap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.hashmap.Main" />
+    <configuration name="MapaMatricula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.hashmap.MapaMatricula" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="heranca.juros.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heranca.juros.Main" />
+    <configuration name="MapaNumeroRomano" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.hashmap.MapaNumeroRomano" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heranca.juros.*" />
+          <option name="PATTERN" value="colecoes.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="heranca.loja.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heranca.loja.Main" />
+    <configuration name="Rna" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.hashmap.Rna" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heranca.loja.*" />
+          <option name="PATTERN" value="colecoes.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.colecoes.hashmap.Main" />
+        <item itemvalue="Application.MapaNumeroRomano" />
+        <item itemvalue="Application.Rna" />
+        <item itemvalue="Application.MapaMatricula" />
         <item itemvalue="Application.interfaces.ex37.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.heranca.juros.Main" />
-        <item itemvalue="Application.heranca.loja.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +293,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686255679276</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="exercícios sobre coleções">
+      <created>1686861142392</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1686861142392</updated>
+    </task>
+    <task id="LOCAL-00025" summary="exercícios sobre coleções">
+      <created>1686861160350</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1686861160350</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,6 +322,17 @@
     <MESSAGE value="updates" />
     <MESSAGE value="exercícios sobre polimorfismo" />
     <MESSAGE value="exercícios sobre interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre interface" />
+    <MESSAGE value="exercícios sobre coleções" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre coleções" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
