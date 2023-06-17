@@ -1,12 +1,18 @@
 package colecoes.turma;
 
-public class Aluno {
+public class Aluno implements Comparable<Object> {
     private String nome;
-    private int codigo;
+    private int matricula;
 
-    public Aluno(String nome, int codigo) {
+    public Aluno(String nome, int matricula) {
         this.nome = nome;
-        this.codigo = codigo;
+        this.matricula = matricula;
+    }
+    @Override
+    public int compareTo(Object obj){
+        if (!(obj instanceof Aluno)) throw new UnsupportedOperationException("Aluno só pode ser comparado com aluno");
+        Aluno a  = (Aluno) obj;
+        return Integer.compare(matricula, a.matricula);
     }
 
     public String getNome() {
@@ -17,11 +23,13 @@ public class Aluno {
         if (!nome.isEmpty()) this.nome = nome;
     }
 
-    public int getCodigo() {
-        return codigo;
+    public int getMatricula() {
+        return matricula;
     }
 
-    public void setCodigo(int codigo) {
-        if (codigo > 0) this.codigo = codigo;
+    public void setMatricula(int matricula) {
+        if (matricula > 0) this.matricula = matricula;
     }
+
+
 }
