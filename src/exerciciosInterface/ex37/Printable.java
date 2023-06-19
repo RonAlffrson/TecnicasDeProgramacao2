@@ -1,4 +1,4 @@
-package interfaces.ex37;
+package exerciciosInterface.ex37;
 
 public interface Printable{
     void print();

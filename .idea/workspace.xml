@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre hashmap">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre coleções">
+      <change afterPath="$PROJECT_DIR$/src/exerciciosInterface/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/gerenciamentoDeTurmas.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/turma/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/turma/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/colecoes/turma/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/turma/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/turma/Turma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/turma/Turma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construtores_getters_setters/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construtores_getters_setters/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciciosInterface/Comparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosInterface/Comparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exerciciosInterface/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/ex37/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosInterface/ex37/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/ex37/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosInterface/ex37/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaces/ex37/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosInterface/ex37/Printable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polimorfismo/ex34_ex35.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687034150630</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="exercícios sobre coleções">
+      <created>1687041392419</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1687041392419</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -332,9 +344,9 @@
     <MESSAGE value="updates" />
     <MESSAGE value="exercícios sobre polimorfismo" />
     <MESSAGE value="exercícios sobre interface" />
-    <MESSAGE value="exercícios sobre coleções" />
     <MESSAGE value="exercícios sobre hashmap" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre hashmap" />
+    <MESSAGE value="exercícios sobre coleções" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre coleções" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

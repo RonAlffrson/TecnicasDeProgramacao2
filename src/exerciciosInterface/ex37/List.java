@@ -1,4 +1,4 @@
-package interfaces.ex37;
+package exerciciosInterface.ex37;
 
 import java.util.ArrayList;
 
