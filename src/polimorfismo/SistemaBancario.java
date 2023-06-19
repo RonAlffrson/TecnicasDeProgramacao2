@@ -20,15 +20,15 @@ abstract class Pagamento{
     }
 }
 class PagamentoOnline extends Pagamento{
-    private int numCartao, qntParcelas;
-    private String bandeira;
+    private int qntParcelas;
+    private String numCartao, bandeira;
 
-    public int getNumCartao() {
+    public String getNumCartao() {
         return numCartao;
     }
 
-    public void setNumCartao(int numCartao) {
-        if (numCartao > 0 && 9999999999999999) this.numCartao = numCartao;
+    public void setNumCartao(String numCartao) {
+        if (numCartao.length() == 16) this.numCartao = numCartao;
     }
 
     public int getQntParcelas() {
