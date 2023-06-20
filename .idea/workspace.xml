@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre coleções">
-      <change afterPath="$PROJECT_DIR$/src/exerciciosInterface/Product.java" afterDir="false" />
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre polimorfismo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colecoes/turma/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/turma/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/construtores_getters_setters/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construtores_getters_setters/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exerciciosInterface/Comparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosInterface/Comparable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exerciciosInterface/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/ex37/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosInterface/ex37/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/ex37/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosInterface/ex37/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/ex37/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exerciciosInterface/ex37/Printable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/ex34_ex35.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +46,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.LeitorInteiros">
+    <configuration name="LeitorInteiros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tratamento_de_excecoes.LeitorInteiros" />
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tratamento_de_excecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.turma.Main" />
       <module name="tp2" />
@@ -110,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeitorInteiros" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MapaMatricula" />
         <item itemvalue="Application.MapaNumeroRomano" />
@@ -329,7 +334,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687041392419</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="exercícios sobre polimorfismo">
+      <created>1687212780641</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1687212780641</updated>
+    </task>
+    <task id="LOCAL-00031" summary="exercícios sobre polimorfismo">
+      <created>1687212793836</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1687212793836</updated>
+    </task>
+    <task id="LOCAL-00032" summary="exercícios sobre polimorfismo">
+      <created>1687213113238</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1687213113238</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -342,11 +368,11 @@
     <MESSAGE value="arrayList Exercise38 remade" />
     <MESSAGE value="exercicios feitos sobre herança" />
     <MESSAGE value="updates" />
-    <MESSAGE value="exercícios sobre polimorfismo" />
     <MESSAGE value="exercícios sobre interface" />
     <MESSAGE value="exercícios sobre hashmap" />
     <MESSAGE value="exercícios sobre coleções" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre coleções" />
+    <MESSAGE value="exercícios sobre polimorfismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre polimorfismo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -355,6 +381,11 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tratamento_de_excecoes/LeitorInteiros.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
