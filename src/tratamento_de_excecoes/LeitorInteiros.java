@@ -1,8 +1,6 @@
 package tratamento_de_excecoes;
 
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class LeitorInteiros {
@@ -10,18 +8,20 @@ public class LeitorInteiros {
         ArrayList<Integer> list = new ArrayList<>();
         Scanner scan = new Scanner(System.in);
         int num = 0;
-        boolean error = true;
+        boolean error;
 
 
         do {
-            System.out.println("insira um num: ");
             do {
+                System.out.println("insira um num: ");
                 try{
-                    num = scan.nextInt();
                     error = false;
+                    num = scan.nextInt();
                 }
                 catch (Exception e){
                     System.out.println("Erro: " + e.getMessage());
+                    error = true;
+                    scan.nextLine();
                 }
             }while (error);
 
@@ -29,8 +29,6 @@ public class LeitorInteiros {
         }while (num > 0);
         System.out.println(list);
 
-        
-        
         list.remove(list.size()-1);
 
         int soma = 0;

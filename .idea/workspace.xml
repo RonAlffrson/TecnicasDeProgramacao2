@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre polimorfismo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tratamento_de_excecoes/Exemplo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tratamento_de_excecoes/Exemplo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tratamento_de_excecoes/LeitorInteiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tratamento_de_excecoes/LeitorInteiros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,19 @@
   }
 }</component>
   <component name="RunManager" selected="Application.LeitorInteiros">
+    <configuration name="Exemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tratamento_de_excecoes.Exemplo2" />
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tratamento_de_excecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeitorInteiros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tratamento_de_excecoes.LeitorInteiros" />
       <module name="tp2" />
@@ -99,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rna" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.hashmap.Rna" />
-      <module name="tp2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="colecoes.hashmap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.LeitorInteiros" />
+        <item itemvalue="Application.Exemplo2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MapaMatricula" />
         <item itemvalue="Application.MapaNumeroRomano" />
-        <item itemvalue="Application.Rna" />
       </list>
     </recent_temporary>
   </component>
@@ -381,11 +383,6 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tratamento_de_excecoes/LeitorInteiros.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
