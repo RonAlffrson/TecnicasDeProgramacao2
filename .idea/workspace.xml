@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre tratamento de erros">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercício sobre polimorfismo SistemaBancario">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/SistemaBancario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorfismo/SistemaBancario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tratamento_de_excecoes/operacao_matematica/DivisionByZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tratamento_de_excecoes/operacao_matematica/DivisionByZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tratamento_de_excecoes/operacao_matematica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tratamento_de_excecoes/operacao_matematica/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tratamento_de_excecoes/operacao_matematica/op_unarias/RaizQuadrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tratamento_de_excecoes/operacao_matematica/op_unarias/RaizQuadrada.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -363,7 +365,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687300347491</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="exercício sobre polimorfismo SistemaBancario">
+      <created>1687530725337</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1687530725337</updated>
+    </task>
+    <task id="LOCAL-00035" summary="exercício sobre polimorfismo SistemaBancario">
+      <created>1687530731812</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1687530731812</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -381,7 +397,9 @@
     <MESSAGE value="exercícios sobre coleções" />
     <MESSAGE value="exercícios sobre polimorfismo" />
     <MESSAGE value="exercícios sobre tratamento de erros" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre tratamento de erros" />
+    <MESSAGE value="exercícios sobre polimorfismo SistemaBancario" />
+    <MESSAGE value="exercício sobre polimorfismo SistemaBancario" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercício sobre polimorfismo SistemaBancario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

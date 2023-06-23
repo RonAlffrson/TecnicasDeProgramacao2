@@ -182,7 +182,7 @@ public class Main {
             }
 
             catch (InputMismatchException e){
-                System.out.println("Operando deve ser número: " + e.getMessage());
+                System.out.println("Operando deve ser um dos números acima: " + e.getMessage());
                 erro2 = true;
                 scan.nextLine();
             }
