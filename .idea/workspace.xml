@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre polimorfismo">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios sobre tratamento de erros">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tratamento_de_excecoes/Exemplo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tratamento_de_excecoes/Exemplo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tratamento_de_excecoes/LeitorInteiros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tratamento_de_excecoes/LeitorInteiros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polimorfismo/SistemaBancario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorfismo/SistemaBancario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/renan/Exercism/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/renan/IdeaProjects/tp2&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -48,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LeitorInteiros">
+  <component name="RunManager" selected="Application.tratamento_de_excecoes.operacao_matematica.Main">
     <configuration name="Exemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tratamento_de_excecoes.Exemplo2" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tratamento_de_excecoes.*" />
+          <option name="PATTERN" value="tratamento_de_excecoes.operacao_matematica.op_binarias.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,7 +66,7 @@
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tratamento_de_excecoes.*" />
+          <option name="PATTERN" value="tratamento_de_excecoes.operacao_matematica.op_binarias.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapaNumeroRomano" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.hashmap.MapaNumeroRomano" />
+    <configuration name="tratamento_de_excecoes.operacao_matematica.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tratamento_de_excecoes.operacao_matematica.Main" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.hashmap.*" />
+          <option name="PATTERN" value="tratamento_de_excecoes.operacao_matematica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tratamento_de_excecoes.operacao_matematica.Main" />
         <item itemvalue="Application.LeitorInteiros" />
         <item itemvalue="Application.Exemplo2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MapaMatricula" />
-        <item itemvalue="Application.MapaNumeroRomano" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687213113238</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="exercícios sobre tratamento de erros">
+      <created>1687300347491</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1687300347491</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -374,7 +380,8 @@
     <MESSAGE value="exercícios sobre hashmap" />
     <MESSAGE value="exercícios sobre coleções" />
     <MESSAGE value="exercícios sobre polimorfismo" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre polimorfismo" />
+    <MESSAGE value="exercícios sobre tratamento de erros" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios sobre tratamento de erros" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
