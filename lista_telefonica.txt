@@ -1,0 +1,6 @@
+renan  - 98
+{98=renan }
+juju - 33
+{33=juju, 98=renan }
+fechar - 0
+{0=fechar, 33=juju, 98=renan }

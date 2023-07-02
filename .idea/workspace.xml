@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercício sobre trataento de exceções" />
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercício sobre tratamento de exceções">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/renan/IdeaProjects/tp2/src/tratamento_de_excecoes",
+    "last_opened_file_path": "C:/Users/renan/IdeaProjects/tp2",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -49,13 +51,26 @@
       <recent name="C:\Users\renan\IdeaProjects\tp2\src\tratamento_de_excecoes" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tratamento_de_excecoes.turma_tratamento_de_excecoes.Main" />
+  <component name="RunManager" selected="Application.LIstaTelefonica">
+    <configuration name="Cadastro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tratamento_de_arquivo.Cadastro" />
       <module name="tp2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tratamento_de_excecoes.turma_tratamento_de_excecoes.*" />
+          <option name="PATTERN" value="tratamento_de_arquivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LIstaTelefonica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tratamento_de_arquivo.LIstaTelefonica" />
+      <module name="tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tratamento_de_arquivo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,7 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LIstaTelefonica" />
+        <item itemvalue="Application.Cadastro" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687546847732</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="exercício sobre tratamento de exceções">
+      <created>1687833521445</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1687833521445</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -366,7 +389,8 @@
     <MESSAGE value="exercício sobre polimorfismo SistemaBancario" />
     <MESSAGE value="exercício atualizado sobre trataento de exceções" />
     <MESSAGE value="exercício sobre trataento de exceções" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercício sobre trataento de exceções" />
+    <MESSAGE value="exercício sobre tratamento de exceções" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercício sobre tratamento de exceções" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
