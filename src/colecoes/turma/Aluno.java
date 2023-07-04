@@ -13,7 +13,7 @@ public class Aluno implements Comparable<Object> {
         if (!(obj instanceof Aluno)) throw new UnsupportedOperationException("Aluno só pode ser comparado com aluno");
         Aluno a  = (Aluno) obj;
         return Integer.compare(matricula, a.matricula);
-    }
+    }   
 
     public String getNome() {
         return nome;
