@@ -10,12 +10,11 @@ public class LeitorInteiros {
         int num = 0;
         boolean error;
 
-
         do {
             do {
-                System.out.println("insira um num: ");
                 try{
                     error = false;
+                    System.out.println("insira um num: ");
                     num = scan.nextInt();
                 }
                 catch (Exception e){
