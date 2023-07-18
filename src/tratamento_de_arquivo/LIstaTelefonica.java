@@ -41,7 +41,7 @@ public class LIstaTelefonica {
             System.out.println(e.getMessage());
         }
         //===============================================================================================================
-        //leitura e pesquisa do arquivo
+        //leitura e pesquisa do arquivo:
         Scanner arquivo = null;
         try {
             FileReader in = new FileReader("lista_telefonica.txt");
