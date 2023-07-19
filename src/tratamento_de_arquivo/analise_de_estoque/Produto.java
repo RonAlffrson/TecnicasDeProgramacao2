@@ -5,16 +5,21 @@ import java.util.Scanner;
 
 public class Produto implements Comparable<Object>{
     private String codigo, nome;
-    public String preco, quantidade;
+    public Double preco, quantidade;
 
-    public Produto(String codigo, String nome, String preco, String quantidade) {
+    public Produto(String codigo, String nome, double preco, double quantidade) {
         setCodigo(codigo);
         setNome(nome);
-        this.preco = preco;
-        this.quantidade = quantidade;
-        //setPreco(preco);
-        //setQuantidade(quantidade);
+        //this.preco = preco;
+        //this.quantidade = quantidade;
+        setPreco(preco);
+        setQuantidade(quantidade);
 
+    }
+
+    @Override
+    public String toString(){
+        return nome;
     }
 
     @Override
@@ -23,9 +28,9 @@ public class Produto implements Comparable<Object>{
         Produto p = (Produto) obj;
 
         if (!Objects.equals(quantidade, p.quantidade))
-            return this.quantidade.compareTo(p.quantidade);
+            return Double.compare(quantidade, p.quantidade);
         else
-            return this.quantidade.compareTo(p.quantidade);
+            return Double.compare(preco, p.preco);
         //caso a quantidde seja a mesma, será compardo os preços
     }
 
@@ -50,26 +55,26 @@ public class Produto implements Comparable<Object>{
         else
             throw new IllegalArgumentException("nome não pode ser vazio");
     }
-/*
-    public Integer getPreco() {
+
+    public Double getPreco() {
         return preco;
     }
 
-    public void setPreco(Integer preco) {
+    public void setPreco(Double preco) {
         if (preco > 0)
             this.preco = preco;
         else
             throw new IllegalArgumentException("preço deve ser maior que zero");
     }
 
-    public Integer getQuantidade() {
+    public Double getQuantidade() {
         return quantidade;
     }
 
-    public void setQuantidade(Integer quantidade) {
+    public void setQuantidade(Double quantidade) {
         if (quantidade > 0)
             this.quantidade = quantidade;
         else
             throw new IllegalArgumentException("quantidade deve ser maior que zero");
-    }*/
+    }
 }

@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="atualizações">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios de recursividade">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classesWrapper/Inteiro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classesWrapper/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tratamento_de_arquivo/LIstaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tratamento_de_arquivo/LIstaTelefonica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tratamento_de_arquivo/analise_de_estoque/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tratamento_de_arquivo/analise_de_estoque/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tratamento_de_arquivo/analise_de_estoque/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tratamento_de_arquivo/analise_de_estoque/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -419,11 +418,24 @@
       <option name="project" value="LOCAL" />
       <updated>1688735539688</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="atualizações não essenciais">
+      <created>1689684561116</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1689684561116</updated>
+    </task>
+    <task id="LOCAL-00046" summary="exercícios de recursividade">
+      <created>1689684614067</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1689684614067</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criando classe 'Conceito' utilizando tipo enumerado para avaliar o conceito de um aluno a partir da nota dada" />
     <MESSAGE value="Criando classe 'BlackJack' utilizando tipo enumerado para um protótipo do jogo Blackjack, onde o programa avalia qual carta é a maior" />
     <MESSAGE value="Exercício de Strings" />
     <MESSAGE value="Exercício de Strings e de tweet &#10;resolvidos" />
@@ -446,7 +458,10 @@
     <MESSAGE value="Exercícios extras" />
     <MESSAGE value="Adicionadas exceções customizadas em Exercícios extras" />
     <MESSAGE value="atualizações" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizações" />
+    <MESSAGE value="atualizações não essenciais" />
+    <MESSAGE value="exercícios de tratamento de arquivo" />
+    <MESSAGE value="exercícios de recursividade" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios de recursividade" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
