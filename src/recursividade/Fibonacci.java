@@ -6,12 +6,15 @@ public class Fibonacci {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
-        System.out.println("F(n) = " + Fibonacci.acharNumero(num));
+        System.out.println("F(" + num + ") = " + Fibonacci.acharNumero(num));
 
     }
     public static int acharNumero(int n){
         if (n == 0){
             return 0;
+        }
+        else if (n == 1){
+            return 1;
         }
         else{
             int a = acharNumero(n - 1);
