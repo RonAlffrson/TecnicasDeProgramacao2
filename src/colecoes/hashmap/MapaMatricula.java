@@ -10,7 +10,7 @@ public class MapaMatricula {
         HashMap<Integer, Aluno> mapaAlunos = new HashMap<>();
 
         Aluno aluno1 = new Aluno("renan", 1);
-        Aluno aluno2 = new Aluno("ed", 2);
+        Aluno aluno2 = new Aluno("ed",  2);
         mapaAlunos.put(1, aluno1);
         mapaAlunos.put(2, aluno2);
 

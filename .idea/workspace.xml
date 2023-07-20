@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios de recursividade">
+    <list default="true" id="ebd3f81a-2468-4417-9c79-3267a1dff1c4" name="Changes" comment="exercícios de recursão">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursividade/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursividade/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colecoes/hashmap/MapaMatricula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colecoes/hashmap/MapaMatricula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursividade/somaN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursividade/SomaN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -438,12 +439,24 @@
       <option name="project" value="LOCAL" />
       <updated>1689804716148</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="exercício fibonacci terminado">
+      <created>1689815013810</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1689815013810</updated>
+    </task>
+    <task id="LOCAL-00049" summary="exercícios de recursão">
+      <created>1689815282353</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1689815282353</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criando classe 'BlackJack' utilizando tipo enumerado para um protótipo do jogo Blackjack, onde o programa avalia qual carta é a maior" />
-    <MESSAGE value="Exercício de Strings" />
     <MESSAGE value="Exercício de Strings e de tweet &#10;resolvidos" />
     <MESSAGE value="Exercício 38 de coleções resolvido" />
     <MESSAGE value="string Exercise remade" />
@@ -467,7 +480,9 @@
     <MESSAGE value="atualizações não essenciais" />
     <MESSAGE value="exercícios de tratamento de arquivo" />
     <MESSAGE value="exercícios de recursividade" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercícios de recursividade" />
+    <MESSAGE value="exercício fibonacci terminado" />
+    <MESSAGE value="exercícios de recursão" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios de recursão" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -485,20 +500,6 @@
           <url>file://$PROJECT_DIR$/src/recursividade/Fatorial.java</url>
           <line>8</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/recursividade/Fibonacci.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/recursividade/Fibonacci.java</url>
-          <line>11</line>
-          <properties class="recursividade.Fibonacci" method="acharNumero">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
